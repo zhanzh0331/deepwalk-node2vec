@@ -1,1 +1,1 @@
-# deppwalk-node2vec
+# deepwalk-node2vec
